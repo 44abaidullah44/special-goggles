@@ -1,0 +1,8 @@
+{
+  "name": "UR TRADER — Gold Trading Education",
+  "description": "UR TRADER: gold market analysis, technical education, trading lessons and an online community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

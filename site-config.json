@@ -1,0 +1,72 @@
+{
+  "name": "UR TRADER",
+  "logo": "",
+  "photo": "",
+  "hero": {
+    "title": "UR TRADER",
+    "head": "Learn Trading. Understand the Market. Build Your Knowledge.",
+    "text": "Explore gold market analysis, technical education, trading concepts and educational resources in one place.",
+    "b1": "Explore Trading Education",
+    "b2": "Watch YouTube Videos"
+  },
+  "hl": [
+    { "t": "Gold Market Analysis", "d": "Market views and chart breakdowns." },
+    { "t": "Technical Education", "d": "Learn how to read price charts." },
+    { "t": "Trading Lessons", "d": "Step-by-step educational content." },
+    { "t": "Online Community", "d": "Discussions with fellow learners." }
+  ],
+  "edu": {
+    "title": "LEARN AND GROW WITH UR TRADER",
+    "text": "Explore educational content covering market structure, support and resistance, price action, chart reading, risk awareness and trading discipline.",
+    "banner": "",
+    "b1": "View Courses",
+    "u1": "",
+    "b2": "Watch Latest Videos",
+    "u2": "",
+    "b3": "Learn More",
+    "u3": ""
+  },
+  "soc": [
+    { "k": "youtube", "n": "YouTube", "l": "YouTube", "u": "https://youtube.com/@urtraders100?si=smG3uh2fuLHy4mrO", "on": 1, "o": 1 },
+    { "k": "whatsapp", "n": "WhatsApp Channel", "l": "WhatsApp Channel", "u": "https://whatsapp.com/channel/0029Vb7kPP0EKyZ9cL1mkO3x", "on": 1, "o": 2 },
+    { "k": "whatsapp", "n": "WhatsApp Number", "l": "WhatsApp Chat", "u": "https://wa.me/923066056536", "on": 1, "o": 3 },
+    { "k": "telegram", "n": "Telegram", "l": "Telegram", "u": "", "on": 1, "o": 4 },
+    { "k": "facebook", "n": "Facebook", "l": "Facebook", "u": "https://www.facebook.com/urtrad?mibextid=rS40aB7S9Ucbxw6v", "on": 1, "o": 5 },
+    { "k": "instagram", "n": "Instagram", "l": "Instagram", "u": "https://www.instagram.com/urtrader100?dlrf=MXR0cnI0ZTBjMjN1dA==", "on": 1, "o": 6 },
+    { "k": "tiktok", "n": "TikTok", "l": "TikTok", "u": "https://www.tiktok.com/@urtraders100?_r=1&_t=ZS-9AVyzz2hPoU", "on": 1, "o": 7 },
+    { "k": "website", "n": "Website", "l": "Website", "u": "https://app.histromax.com/", "on": 1, "o": 8 },
+    { "k": "email", "n": "Email", "l": "Email", "u": "", "on": 1, "o": 9 }
+  ],
+  "vip": {
+    "text": "Join our community to access trading education, market discussions and available premium learning resources.",
+    "invite": "https://whatsapp.com/channel/0029Vb7kPP0EKyZ9cL1mkO3x",
+    "phone": "+92 306 6056536",
+    "chat": "https://wa.me/923066056536",
+    "desc": "",
+    "banner": "",
+    "btn": "JOIN VIP GROUP"
+  },
+  "yt": {
+    "channel": "https://youtube.com/@urtraders100?si=smG3uh2fuLHy4mrO",
+    "vids": []
+  },
+  "about": {
+    "text": "UR TRADER is a trading education brand focused on helping learners understand gold market analysis, technical concepts, chart structure and disciplined decision-making.",
+    "bio": "",
+    "creds": ""
+  },
+  "contact": {
+    "email": "",
+    "form": 1
+  },
+  "sec": [
+    { "id": "home", "on": 1 },
+    { "id": "hl", "on": 1 },
+    { "id": "trading", "on": 1 },
+    { "id": "social", "on": 1 },
+    { "id": "vip", "on": 1 },
+    { "id": "videos", "on": 1 },
+    { "id": "about", "on": 1 },
+    { "id": "contact", "on": 1 }
+  ]
+}
